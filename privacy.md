@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** [DATE]
+**Last updated:** [12-29-25]
 
 This Privacy Policy describes how the Boxdrop customer feedback automation application ("the App") collects, uses, and protects information.
 
